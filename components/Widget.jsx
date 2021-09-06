@@ -23,12 +23,6 @@ function Widget() {
         "https://res.cloudinary.com/majesty1/image/upload/v1630389640/waja_zxpuli.jpg",
     },
     {
-      name: "Asare Gideon",
-      src: "https://res.cloudinary.com/majesty1/image/upload/v1630389396/gideon_ouszsl.jpg",
-      profile:
-        "https://res.cloudinary.com/majesty1/image/upload/v1630389640/waja_zxpuli.jpg",
-    },
-    {
       name: "Florence Agyetey",
       src: "https://res.cloudinary.com/majesty1/image/upload/v1630389709/girl_klvzoe.jpg",
       profile:
