@@ -40,8 +40,13 @@ function Widget() {
           <DotsHorizontalIcon className="h-6" />
         </div>
       </div>
-      {friends.map((friend) => (
-        <SidebarRow src={friend.src} title={friend.name} size={40} />
+      {friends.map((friend, index) => (
+        <SidebarRow
+          key={index}
+          src={friend.src}
+          title={friend.name}
+          size={40}
+        />
       ))}
     </div>
   );
